@@ -1,0 +1,11 @@
+.footer{
+    border-top: 5px solid #999898;
+    max-height:50px;
+}
+.flex{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto auto;
+}

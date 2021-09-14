@@ -1,0 +1,14 @@
+.navbar{
+    background-color: #0062FF ;
+}
+.navbar a{
+    color: #fff !important;
+}
+.navbar-nav,
+.mr-auto {
+flex: 1;
+margin: auto !important;
+display: flex;
+justify-content: space-around;
+}
+
